@@ -24,5 +24,8 @@ ip=br1.readLine();
 Runtime r=Runtime.getRuntime();
 Process p=r.exec(str);
 
+## OUTPUT
+![alt text](output.png)
+
 ## RESULT
 Thus the implementation RCE is done & executed successfully.
